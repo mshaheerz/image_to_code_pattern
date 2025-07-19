@@ -180,7 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built with [v0.dev](https://v0.dev) - AI-powered development platform
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Icons from [Lucide React](https://lucide.dev/)
 - Deployed on [Vercel](https://vercel.com/)
